@@ -5,7 +5,7 @@
 |--------|---------|------------| -------- |-----|
 | Play | https://play.decentraland.org/ | https://github.com/decentraland/explorer |    | |
 | Builder | https://builder.decentraland.org/ | https://github.com/decentraland/builder | Builer前端   | |
-| Builder Server| https://builder-api.decentraland.org/v1 | https://github.com/decentraland/builder |    |
+| Builder Server| https://builder-api.decentraland.org/v1 | https://github.com/decentraland/builder-server |    |
 | Maketplace | https://api.decentraland.org  | https://github.com/decentraland/marketplace/tree/master/webapp |   |
 | Maketplace API | https://api.decentraland.org/v1 | https://github.com/decentraland/marketplace/tree/master/indexer |   |
 | Peer | https://peer.decentraland.org |  |   |
