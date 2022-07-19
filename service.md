@@ -16,7 +16,7 @@
 | Catalyst | https://peer-lb.decentraland.org |https://github.com/decentraland/catalyst | | |  
 | Kernel | https://play.decentraland.zone/ | | | | 
 | Asset | https://content-assets-as-bundle.decentraland.org | | | |
-| Atlas API | https://api.decentraland.org/v1 | | | |
+| Atlas API | https://api.decentraland.org/v1 | https://github.com/decentraland/atlas-server| | |
 | NFT API | https://nft-api.decentraland.org/v1 | | | |
 | audio | https://audio.dcl.guru/radio/8110/radio.mp3 | | | |
 |--------|---------|------------| -------- |-----|
