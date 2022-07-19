@@ -13,6 +13,12 @@
 | Transacion API | https://transactions-api.decentraland.org/v1 | https://github.com/decentraland/transactions-server | | |
 | Transacion|  | https://github.com/decentraland/decentraland-transactions | | |
 | Account | https://account.decentraland.org | | | |
+| Catalyst | https://peer-lb.decentraland.org |https://github.com/decentraland/catalyst | | |  
+| Kernel | https://play.decentraland.zone/ | | | | 
+| Asset | https://content-assets-as-bundle.decentraland.org | | | |
+| Atlas API | https://api.decentraland.org/v1 | | | |
+| NFT API | https://nft-api.decentraland.org/v1 | | | |
+| audio | https://audio.dcl.guru/radio/8110/radio.mp3 | | | |
 |--------|---------|------------| -------- |-----|
 | Land Manager | https://api.thegraph.com/subgraphs/name/decentraland/land-manager| | | |
 | Marketplace | https://api.thegraph.com/subgraphs/name/decentraland/marketplace |  |  |  |
