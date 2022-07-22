@@ -20,7 +20,7 @@
 | NFT API | https://nft-api.decentraland.org/v1 | | | |
 | audio | https://audio.dcl.guru/radio/8110/radio.mp3 | | | |
 |--------|---------|------------| -------- |-----|
-| Land Manager | https://api.thegraph.com/subgraphs/name/decentraland/land-manager| | | |
+| Land Manager | https://api.thegraph.com/subgraphs/name/decentraland/land-manager| | | https://graph.abey.link/subgraphs/name/abeyworld/land-manager |
 | Marketplace | https://api.thegraph.com/subgraphs/name/decentraland/marketplace |  |  |  |
 | Third Party | https://api.thegraph.com/subgraphs/name/decentraland/tpr-matic-mainnet | | | |
 | Collections | https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet | | | |
