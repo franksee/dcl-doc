@@ -23,4 +23,5 @@
 | Land Manager | https://api.thegraph.com/subgraphs/name/decentraland/land-manager| | | https://graph.abey.link/subgraphs/name/abeyworld/land-manager |
 | Marketplace | https://api.thegraph.com/subgraphs/name/decentraland/marketplace |  |  |  |
 | Third Party | https://api.thegraph.com/subgraphs/name/decentraland/tpr-matic-mainnet | | | |
-| Collections | https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet | | | |
+| Collections | https://api.thegraph.com/subgraphs/name/decentraland/collections-matic-mainnet | | | https://graph.abey.link/subgraphs/name/abeyworld/collections-mainnet
+|
