@@ -24,6 +24,7 @@ http://13.250.108.243:10056/
 |dcl url | abey url| http | github |  Description |
 |--------|---------|------------|------------| ------------|
 | https://builder-api.decentraland.org|https://builder-api.dclworld.net (缺) | http://13.250.108.243:10050/v1 http://13.250.108.243:10051/   前端| | | |
+| https://builder.decentraland.org|https://builder.dclworld.net | | | | |
 | https://api.decentraland.org |https://api.dclworld.net  |http://54.255.202.209:10010 | | | |
 | https://api.decentraland.org/v1/map.png | https://api.dclworld.net | http://54.255.202.209:10010/v1/map.png | | | |
 | https://peer-lb.decentraland.org | https://catalyst.dclworld.net | http://52.77.247.112 | | | |
